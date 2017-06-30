@@ -146,7 +146,7 @@
 		},
 		{
 			"name": "FancyWord",
-			"details": "https://github.com/easton042/FancyWord",
+			"details": "https://github.com/eastonlee/FancyWord",
 			"homepage": "https://eastonlee.com/blog/2017/03/31/fancyword-a-sublimetext-plugin-that-improves-your-word-choice-in-english-writing/",
 			"author": "Easton Lee",
 			"labels": ["dictionary", "English", "word2vec"],
